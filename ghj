@@ -1,0 +1,9 @@
+/ojos-abiertos
+├── backend
+│   └── index.js
+├── frontend
+│   ├── index.html
+│   ├── style.css
+│   └── app.js
+└── README.md
+ 
